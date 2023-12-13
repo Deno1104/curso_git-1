@@ -1,5 +1,0 @@
-olá mundo
-teste
-de 
-diff
-novo
